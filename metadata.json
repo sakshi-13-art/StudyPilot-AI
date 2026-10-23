@@ -1,0 +1,7 @@
+{
+  "name": "StudyPilot AI",
+  "description": "An autonomous academic study planning and recovery agent that detects schedule conflicts and dynamically recalibrates study plans when interruptions occur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
